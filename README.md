@@ -3,6 +3,7 @@ This project focuses on analyzing and visualizing sales data from a fictional gr
 <br>
 Project Overview
 The main objectives of this project are:
+<br>
 Data Cleaning: Preprocessed the dataset to handle missing values, correct data inconsistencies, and prepare it for analysis.
 Exploratory Data Analysis (EDA): Conducted an in-depth analysis to understand sales patterns, product performance, and customer behavior.
 Data Visualization: Created a series of visualizations to highlight sales trends, profit margins, and regional sales distribution using tools like Python.
@@ -10,6 +11,7 @@ Feature Engineering: Extracted new features from the order date, such as Order Y
 
 Key Insights
 Some of the insights generated from the analysis include:
+<br>
 Year-over-year sales distribution and seasonal trends.
 Profitability by product category and sub-category.
 Regional sales performance and customer demographics.
